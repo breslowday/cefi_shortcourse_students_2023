@@ -1,6 +1,6 @@
 ## Overview
 This repository will contain all materials for the Short Course on Forecasting for Decision-Making: An Epidemiological & Ecological Perspective. The course is in-person and will be hosted at the Fields Institute in Toronto, ON and takes place from July 24th - 28th. The course materials include lectures, exercises and forecast modelling materials for three case studies: Infectious Disease Control, Fisheries Management, Water Quality Monitoring.  All course materials will be made available online after July 28th. For a description of the course's overall objectives, please see [here](http://www.fields.utoronto.ca/activities/23-24/forecasting).  
-
+"Here is a change on remote"
 ## Schedule
 
 |       Time Slots      	|   	|                                      	|                                                                              Monday                                                                             	|                                                                    Tuesday                                                                   	|                                                                                Wednesday                                                                               	|                                                    Thursday                                                   	|                            Friday                           	|
